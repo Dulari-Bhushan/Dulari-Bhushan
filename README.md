@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&width=435&lines=Computer+Engineer;ML+Geek;Cloud+Beginner+with+AWS+&+Azure" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&width=435&lines=Computer+Engineer;ML+Geek;Cloud+Beginner+with+AWS+and+Azure" alt="Typing SVG" /></a>
 <br>
 🔭 I’m currently working on ML models and Computer Vision <br><br>🌱 I’m currently exploring Deep Learning, Firmware, Cloud and Robotics<br><br>👯 I’m looking to collaborate on ML projects with deployments<br><br>💬 Ask me about fiction novels, AI/ML and Cloud<br><br>📫 How to reach me: dularibhushan@gmail.com <br><br>👀 Currently reading Anthropocene Reviewed by John Green<br><br> ⚡ Fun fact: To train a robot to make you a bowl of cereal in any envirnonment, we need to train it for around 1000+ different houses! 
 
